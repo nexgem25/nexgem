@@ -3,7 +3,7 @@
 
 # Next Generation Medicine Lab
 
-An engaging 1-3 sentence description of your lab.
+Next Genernation Medicine Lab (NEXGEM) aims to integrate the biological big-data with AI and data science approaches and cutting-edge experimental techniques to find a better way to treat cancer patients. 
 
 {% include section.html %}
 
