@@ -12,10 +12,12 @@ links:
 ---
 
 **2018-2019**
+
 National Cancer Institute
 Cancer Data Science Lab
 
 **2014-2018**
+
 University of Maryland
 Center for Bioinformatics and Computational Biology
 
