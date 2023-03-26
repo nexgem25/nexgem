@@ -1,5 +1,5 @@
 ---
-name: Kyeong Chan Im
+name: Kyeongchan Im
 image: images/photo.jpg
 role: PhD course
 links:
