@@ -1,5 +1,5 @@
 ---
-name: Young Min Chung
+name: Youngmin Chung
 image: images/photo.jpg
 role: Integrated PhD course
 links:
