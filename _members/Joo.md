@@ -1,5 +1,5 @@
 ---
-name: Joo Sang Lee
+name: Joosang Lee
 image: images/photo.jpg
 role: pi
 aliases:
