@@ -5,11 +5,8 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# <i class="fas fa-envelope"></i>Contact
+Our lab is part of the group of [Prof. Joosang Lee] of the [Department of Medicine](https://www.skkumed.ac.kr/), and [Department of Artificial Intelligence](https://ai.skku.edu/ai/index.do)
 
 {%
   include button.html
@@ -27,8 +24,11 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/Medical+School,+Sungkyunkwan+University+(Natural+Sciences+Campus+in+Suwon)/data=!4m14!1m7!3m6!1s0x357b42b61ce1867f:0xb38e2754eb2dbb08!2sSunkyunkwan+University+(SKKU)+-+Natural+Sciences+Campus+(NSC)!8m2!3d37.2931567!4d126.9746509!16s%2Fg%2F1tjdjnrq!3m5!1s0x357b4396ae5cea33:0xdfb5aabdeab16126!8m2!3d37.2921498!4d126.9732969!16s%2Fg%2F11h_2fw9mx)"
-%}
+  text="Google Maps"
+  link="https://goo.gl/maps/FFT3neNXtRJo8mgp8"
+  style="button"
+ %}
+ {:.center}
 
 {% include section.html %}
 
