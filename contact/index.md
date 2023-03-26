@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Medical+School,+Sungkyunkwan+University+(Natural+Sciences+Campus+in+Suwon)/data=!4m14!1m7!3m6!1s0x357b42b61ce1867f:0xb38e2754eb2dbb08!2sSunkyunkwan+University+(SKKU)+-+Natural+Sciences+Campus+(NSC)!8m2!3d37.2931567!4d126.9746509!16s%2Fg%2F1tjdjnrq!3m5!1s0x357b4396ae5cea33:0xdfb5aabdeab16126!8m2!3d37.2921498!4d126.9732969!16s%2Fg%2F11h_2fw9mx)"
 %}
 
 {% include section.html %}
