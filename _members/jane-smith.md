@@ -1,19 +1,55 @@
 ---
-name: Jane Smith
+name: Joo Sang Lee
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - Joo
+  - 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://leejoosang.wixsite.com/ngml
+  orcid: 0000-0000-0000-0000
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+2018-2019 
+National Cancer Institute
+
+Cancer Data Science Lab
+
+​
+
+2014-2018
+
+University of Maryland
+
+Center for Bioinformatics and Computational Biology
+
+​
+
+2006-2012 
+
+Northwestern University
+
+PhD in Physics
+
+RESEARCH INTEREST
+ 
+Artificial Intelligence and Data Science
+Analyze biological big data to provide clinically relevant novel insights.
+
+ 
+
+Precision Medicine
+
+Develop statistical algorithms to match right patients to the right drugs.
+
+ 
+
+Cancer Immunotherapy
+
+Identify new opportunities to harness immune systems to fight against cancer.
+
+​
+
+Cancer Metabolism
+
+Metabolic dysregulation leads to cancer mutagenesis and new opportunities for treatment.
